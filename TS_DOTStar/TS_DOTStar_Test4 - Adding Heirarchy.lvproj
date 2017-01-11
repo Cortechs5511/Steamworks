@@ -95,7 +95,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="TS DotStar SPI V5 - Switched Style.vi" Type="VI" URL="../../ADXL362 SPI/TS DotStar SPI V5 - Switched Style.vi"/>
+		<Item Name="TS DotStar SPI V5 - Switched Style.vi" Type="VI" URL="../TS DotStar SPI V4 Folder/TS DotStar SPI V5 - Switched Style.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
