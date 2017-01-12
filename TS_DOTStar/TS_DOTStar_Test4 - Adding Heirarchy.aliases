@@ -1,5 +1,5 @@
 [My Computer]
-My Computer = "10.10.1.25"
+My Computer = "10.0.8.125"
 
 [NI roboRIO]
 NI roboRIO = "172.22.11.2"
