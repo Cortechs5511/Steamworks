@@ -112,6 +112,9 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
+			<Item Name="TalonData.vi" Type="VI" URL="../TalonData.vi"/>
+			<Item Name="TalonPID.vi" Type="VI" URL="../TalonPID.vi"/>
+			<Item Name="TalonTest.vi" Type="VI" URL="../TalonTest.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
