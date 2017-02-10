@@ -111,9 +111,16 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
+			<Item Name="CalcLR.vi" Type="VI" URL="../CalcLR.vi"/>
 			<Item Name="CleanVision.vi" Type="VI" URL="../CleanVision.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
+			<Item Name="LawOfCosines.vi" Type="VI" URL="../LawOfCosines.vi"/>
+			<Item Name="LawOfSines.vi" Type="VI" URL="../LawOfSines.vi"/>
+			<Item Name="PythagFindB.vi" Type="VI" URL="../PythagFindB.vi"/>
+			<Item Name="PythagFindH.vi" Type="VI" URL="../PythagFindH.vi"/>
+			<Item Name="RadiansToDegrees.vi" Type="VI" URL="../RadiansToDegrees.vi"/>
 			<Item Name="ReadVision.vi" Type="VI" URL="../ReadVision.vi"/>
+			<Item Name="SplitLR.vi" Type="VI" URL="../SplitLR.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
