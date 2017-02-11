@@ -111,8 +111,19 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
+			<Item Name="AverageAngleA.vi" Type="VI" URL="../AverageAngleA.vi"/>
+			<Item Name="AverageAngleB.vi" Type="VI" URL="../AverageAngleB.vi"/>
+			<Item Name="AverageAngleC.vi" Type="VI" URL="../AverageAngleC.vi"/>
+			<Item Name="AverageAngleD.vi" Type="VI" URL="../AverageAngleD.vi"/>
+			<Item Name="AverageDistanceL.vi" Type="VI" URL="../AverageDistanceL.vi"/>
+			<Item Name="AverageDistanceR.vi" Type="VI" URL="../AverageDistanceR.vi"/>
+			<Item Name="AverageM.vi" Type="VI" URL="../AverageM.vi"/>
+			<Item Name="AverageX.vi" Type="VI" URL="../AverageX.vi"/>
+			<Item Name="AverageY.vi" Type="VI" URL="../AverageY.vi"/>
+			<Item Name="AverageZ.vi" Type="VI" URL="../AverageZ.vi"/>
 			<Item Name="CalcLR.vi" Type="VI" URL="../CalcLR.vi"/>
 			<Item Name="CleanVision.vi" Type="VI" URL="../CleanVision.vi"/>
+			<Item Name="DegreesToRadians.vi" Type="VI" URL="../DegreesToRadians.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="LawOfCosines.vi" Type="VI" URL="../LawOfCosines.vi"/>
 			<Item Name="LawOfSines.vi" Type="VI" URL="../LawOfSines.vi"/>
@@ -121,6 +132,7 @@ AddOutputFilter chunkFilter
 			<Item Name="RadiansToDegrees.vi" Type="VI" URL="../RadiansToDegrees.vi"/>
 			<Item Name="ReadVision.vi" Type="VI" URL="../ReadVision.vi"/>
 			<Item Name="SplitLR.vi" Type="VI" URL="../SplitLR.vi"/>
+			<Item Name="VisionTotal.vi" Type="VI" URL="../VisionTotal.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
