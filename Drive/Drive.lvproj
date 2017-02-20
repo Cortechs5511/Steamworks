@@ -117,7 +117,7 @@ AddOutputFilter chunkFilter
 			<Item Name="TalonPID.vi" Type="VI" URL="../../PID_Test/TalonPID.vi"/>
 			<Item Name="TalonTest.vi" Type="VI" URL="../../PID_Test/TalonTest.vi"/>
 			<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
-			<Item Name="Vision.vi" Type="VI" URL="../../Vision/Vision.vi"/>
+			<Item Name="Vision.vi" Type="VI" URL="../Vision.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
