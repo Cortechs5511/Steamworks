@@ -113,6 +113,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="CleanVision.vi" Type="VI" URL="../CleanVision.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
+			<Item Name="ReadFile.vi" Type="VI" URL="../ReadFile.vi"/>
 			<Item Name="ReadVision.vi" Type="VI" URL="../ReadVision.vi"/>
 			<Item Name="TalonPID.vi" Type="VI" URL="../../PID_Test/TalonPID.vi"/>
 			<Item Name="TalonTest.vi" Type="VI" URL="../../PID_Test/TalonTest.vi"/>
